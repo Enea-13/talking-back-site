@@ -1,0 +1,10 @@
+title: Talking Back
+description: Recognize the thought, and answer it with Scripture.
+baseurl: /talking-back-site
+exclude:
+  - README.md
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: default
